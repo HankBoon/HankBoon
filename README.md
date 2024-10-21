@@ -1,7 +1,7 @@
 # Welcome to my Github
 
 My name is Hauke and I am learning to code. 
-I started to learn coding in spring 2024, already made a small [web app](army-list-compressor.vercel.app) and right now I am attending a bootcamp at **Neue Fische**.
+I started to learn coding in spring 2024, already made a small <a href="https://army-list-compressor.vercel.app" target="_blank">web app</a> and right now I am attending a bootcamp at **Neue Fische**.
   
 I am a builder! 
 At first I build using my visual imagination. Later I build using a hammer. Now I build using a Keyboard.

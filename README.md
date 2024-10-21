@@ -8,7 +8,18 @@ I am a fan of all kinds of nerdy stuff like:
 - Warhammer
 - Science-Fiction
   
-Thats also what my app is about!
+I am a builder! 
+At first I build using my visual imagination. Later I build using a hammer. Now I build using a Keyboard.
 
-![astronaut on a bridge](https://plus.unsplash.com/premium_photo-1682124865982-86f0aa859b01?q=80&w=1760&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+<img src="https://images.unsplash.com/photo-1495121553079-4c61bcce1894?q=80&w=1881&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="picture of a camera" height="500"> <img src="https://plus.unsplash.com/premium_photo-1723579315375-e18f86f4c50d?q=80&w=1921&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="picture of a hand holding a hammer" height="500">
+<img src="https://images.unsplash.com/photo-1651248340514-f5822cb997c2?q=80&w=1827&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="fingers typing on keyboard" height="500">
+
+
+
+
+
+
+
+
+
 
